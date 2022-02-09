@@ -1,0 +1,8 @@
+---
+title: "About this site"
+---
+
+```{r label, out.width = "85%", fig.cap = "caption"}
+library(knitr)
+knitr::include_graphics("resume.pdf")
+```

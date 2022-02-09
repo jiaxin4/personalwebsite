@@ -1,0 +1,30 @@
+---
+title: "Jiaxin Yu"
+image: "mypic.jpg"
+links:
+    - label: Github
+      url: "https://github.com/jiaxin4"
+    - label: Email
+      url: "mailto:jiaxiny4@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+## Bio
+
+My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE. 
+
+Collaboration, training and team science are passions of mine. I believe that research should not be lonely, and building communities of practice in science and research that are psychologically safe and inclusive are the key to doing better, more robust science.
+
+## Education
+
+**University of California, Irvine** | Irvine, CA
+
+Ph.D. in Statistics | September 2020 - Present
+
+**University of California, Irvine** | Irvine, CA
+
+B.S. in Mathematics | September 2017 - June 2020
+
+

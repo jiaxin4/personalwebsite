@@ -1,0 +1,12 @@
+---
+title: ""  
+listing: projects # do this exactly
+---
+
+## R shiny apps
+
+here are some R shiny apps that I have built:
+
+i3+3 design
+
+continuous efficacy monitoring 
