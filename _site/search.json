@@ -5,28 +5,28 @@
       "title": "About this site",
       "author": [],
       "contents": "\n\n\nlibrary(knitr)\nknitr::include_graphics(\"resume.pdf\")\n\n\n\n\nFigure 1: caption\n\n\n\n\n\n\n",
-      "last_modified": "2022-02-08T22:17:16-08:00"
+      "last_modified": "2022-02-08T22:36:42-08:00"
     },
     {
       "path": "contact.html",
       "title": "Contact",
       "author": [],
       "contents": "\nContact Information:\njiaxiny4@uci.edu (949) 665-9861 2051 Donald Bren Hall Irvine, CA 92697\n\n\n\n",
-      "last_modified": "2022-02-08T22:17:17-08:00"
+      "last_modified": "2022-02-08T22:36:42-08:00"
     },
     {
       "path": "index.html",
       "title": "Jiaxin Yu",
       "author": [],
-      "contents": "\n\n          \n          \n          Jiaxin Yu\n          \n          \n          Home\n          CV\n          Software\n          Contact\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Jiaxin Yu\n            \n            \n              \n                \n                    \n                      \n                        Github\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE.\n            Collaboration, training and team science are passions of mine. I believe that research should not be lonely, and building communities of practice in science and research that are psychologically safe and inclusive are the key to doing better, more robust science.\n            \n            \n            Education\n            University of California, Irvine | Irvine, CA\n            Ph.D. in Statistics | September 2020 - Present\n            University of California, Irvine | Irvine, CA\n            B.S. in Mathematics | September 2017 - June 2020\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Jiaxin Yu\n            \n            \n              \n                \n                                    \n                    \n                      Github\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE.\n              Collaboration, training and team science are passions of mine. I believe that research should not be lonely, and building communities of practice in science and research that are psychologically safe and inclusive are the key to doing better, more robust science.\n              \n              \n              Education\n              University of California, Irvine | Irvine, CA\n              Ph.D. in Statistics | September 2020 - Present\n              University of California, Irvine | Irvine, CA\n              B.S. in Mathematics | September 2017 - June 2020\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-02-08T22:17:17-08:00"
+      "contents": "\n\n          \n          \n          Jiaxin Yu\n          \n          \n          Home\n          CV\n          Software\n          Contact\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Jiaxin Yu\n            \n            \n              \n                \n                    \n                      \n                        Github\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE.\n            \n            \n            Education\n            University of California, Irvine | Irvine, CA\n            Ph.D. in Statistics | September 2020 - Present\n            University of California, Irvine | Irvine, CA\n            B.S. in Mathematics | September 2017 - June 2020\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Jiaxin Yu\n            \n            \n              \n                \n                                    \n                    \n                      Github\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE.\n              \n              \n              Education\n              University of California, Irvine | Irvine, CA\n              Ph.D. in Statistics | September 2020 - Present\n              University of California, Irvine | Irvine, CA\n              B.S. in Mathematics | September 2017 - June 2020\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-02-08T22:36:43-08:00"
     },
     {
       "path": "software.html",
       "title": "",
       "author": [],
       "contents": "\nR shiny apps\nhere are some R shiny apps that I have built:\ni3+3 design\ncontinuous efficacy monitoring\n\n\n\n",
-      "last_modified": "2022-02-08T22:17:18-08:00"
+      "last_modified": "2022-02-08T22:36:44-08:00"
     }
   ],
   "collections": ["projects/projects.json"]
