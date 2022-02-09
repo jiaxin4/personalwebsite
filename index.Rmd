@@ -15,7 +15,6 @@ site: distill::distill_website
 
 My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the DECADE. 
 
-Collaboration, training and team science are passions of mine. I believe that research should not be lonely, and building communities of practice in science and research that are psychologically safe and inclusive are the key to doing better, more robust science.
 
 ## Education
 
