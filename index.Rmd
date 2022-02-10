@@ -5,7 +5,7 @@ links:
     - label: Github
       url: "https://github.com/jiaxin4"
     - label: Email
-      url: "mailto:jiaxiny4@email.com"
+      url: "mailto:jiaxiny4@uci.com"
 output:
   postcards::trestles
 site: distill::distill_website
