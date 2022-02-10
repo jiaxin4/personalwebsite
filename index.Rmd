@@ -13,7 +13,7 @@ site: distill::distill_website
 
 ## Bio
 
-My name is Jiaxin Yu, a second-year Phd student in statistics at University of California, Irvine, and a member of the UCI DECADE. 
+My name is Jiaxin Yu, a second-year PhD student in statistics at University of California, Irvine, and a member of the UCI DECADE. 
 
 
 ## Education
